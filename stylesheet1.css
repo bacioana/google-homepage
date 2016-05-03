@@ -1,0 +1,110 @@
+div{
+	position: relative;
+}
+.top-menu{
+	top:10px;
+	right:80px;
+	left:970px;
+	position: relative;
+	font-size: 20px;
+	width: 250px;
+	text-decoration: none;
+	color:black;
+}
+.square img{
+   width: 45px;
+   height: 45px;
+ }
+.square{
+   left:120px;
+   top:-30px;
+   right:20px;
+   position: relative;
+}
+.logo img{
+	height: 200px;
+	width: 350px;
+	
+}
+.logo{
+	left:450px;
+	position: relative;
+	top:45px;
+	bottom: 500px;
+}
+.sign-in{
+	height: 25px;
+	width: 85px;
+	background-color:#2372b2;
+	left:180px;
+	top: -77px;
+	color:#fff;
+	font-size: 14px;
+	text-align: center;
+	padding-top:7px;
+	border-radius: 3px;
+}
+.text{
+
+	left:300px;
+	right:350px;
+	top:10px;
+}
+textarea{
+	border: 0.5px solid blue;
+	font-size: 24px;
+}
+.button1{
+	background-color: #dddada;
+	height: 25px;
+	width: 130px;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 3px;
+	color: #929292;
+	left:470px;
+	top:40px;
+}
+.button2{
+	background-color: #dddada;
+	height: 25px;
+	width: 130px;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 3px;
+	color: #929292;
+	left: 620px;
+	top:10px;
+}
+.offered{
+	left: 430px;
+	top:40px;
+	font-size: 16px;
+}
+.bottom-menu{
+	height: 35px;
+	width: 1250px;
+	background-color: #dddada;
+	
+	top:124px;
+	margin-bottom: 0px;
+
+}
+.left-side{
+	text-align: left;
+	color: #929292;
+	padding-top: 1px;
+	top:-7px;
+	word-spacing: 20px;
+}
+.right-side{
+	text-align: right;
+	color: #929292;
+	padding-top: 2px;
+	top:-60px;
+	word-spacing: 20px;
+}
+a{
+	text-decoration: none;
+	color: blue;
+}
